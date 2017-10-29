@@ -1,6 +1,8 @@
 # SocialShare
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
+Added social share jquery plugin from (https://tutorialzine.com/2014/08/cool-share-jquery-plugin)
+
 
 ## Development server
 
